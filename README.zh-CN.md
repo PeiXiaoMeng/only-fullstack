@@ -5,8 +5,8 @@
 
 ## ⚡ 引子
 
-<a href="https://baijiahao.baidu.com/s?id=1831647092849862225&wfr=spider&for=pc">微软裁员赔偿</a>
-<a href="https://baijiahao.baidu.com/s?id=1834166250383972011&wfr=spider&for=pc">花旗裁员赔偿</a> 
+- <a href="https://baijiahao.baidu.com/s?id=1831647092849862225&wfr=spider&for=pc">微软裁员赔偿</a>
+- <a href="https://baijiahao.baidu.com/s?id=1834166250383972011&wfr=spider&for=pc">花旗裁员赔偿</a> 
 
 ## 🚀 介绍
 
@@ -14,4 +14,6 @@
 
 ## 📚 阶段
 
-- [x] 阶段一：产品原型图 
+- [x] 阶段一：产品原型图 [查看设计图](./designs/prototype.jpg)
+- [x] 阶段二：功能清单 [查看功能清单](./designs/1.0.jpg)
+- [ ] 阶段三：桌面端开发(electron + react + shadcn/ui + typescript)

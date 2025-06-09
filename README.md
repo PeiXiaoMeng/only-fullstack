@@ -5,8 +5,8 @@
 
 ## ⚡ Introduction
 
-<a href="https://baijiahao.baidu.com/s?id=1831647092849862225&wfr=spider&for=pc">Microsoft Layoff Compensation</a>
-<a href="https://baijiahao.baidu.com/s?id=1834166250383972011&wfr=spider&for=pc">Citigroup Layoff Compensation</a>
+- <a href="https://baijiahao.baidu.com/s?id=1831647092849862225&wfr=spider&for=pc">Microsoft Layoff Compensation</a>
+- <a href="https://baijiahao.baidu.com/s?id=1834166250383972011&wfr=spider&for=pc">Citigroup Layoff Compensation</a>
 
 ## 🚀 About
 
@@ -14,4 +14,6 @@ As the name suggests, only-fullstack means full-stack only. Currently, only-full
 
 ## 📚 Stages
 
-- [x] Stage 1: Product Prototype Design
+- [x] Stage 1: Product Prototype Design [View Design](./designs/prototype.jpg)
+- [x] Stage 2: Feature List [View Feature List](./designs/1.0.jpg)
+- [ ] Stage 3: Desktop Application Development (electron + react + shadcn/ui + typescript)
