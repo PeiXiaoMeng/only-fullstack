@@ -16,4 +16,5 @@ As the name suggests, only-fullstack means full-stack only. Currently, only-full
 
 - [x] Stage 1: Product Prototype Design [View Design](./designs/prototype.jpg)
 - [x] Stage 2: Feature List [View Feature List](./designs/1.0.jpg)
-- [ ] Stage 3: Desktop Application Development (electron + react + shadcn/ui + typescript)
+- [ ] Phase 3: Desktop Development (electron + nextjs + shadcn/ui + typescript)
+- [ ] Phase 4: Backend Development (fastapi + mysql)
